@@ -71,4 +71,4 @@ router.post("/api/v1/user/signin",async(req,res)=>{
     })
 })
 
-modules.exports = router;
+module.exports = router;
